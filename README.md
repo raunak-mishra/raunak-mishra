@@ -8,6 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... ReactJS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... mishraraunak326@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... Think Twice, Code Once.
 -->
