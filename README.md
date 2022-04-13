@@ -1,6 +1,5 @@
 ### Here's What I am working on
- 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...  NodeJs
 - 🌱 I’m currently learning ... Nodejs (Advance)
